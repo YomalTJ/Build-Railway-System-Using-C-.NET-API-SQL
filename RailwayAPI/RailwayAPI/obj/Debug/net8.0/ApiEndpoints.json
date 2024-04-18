@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "RailwayAPI.Controllers.TrainsController",
+    "Method": "CreateTrain",
+    "RelativePath": "api/Trains",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trainDto",
+        "Type": "RailwayAPI.Models.TrainDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RailwayAPI.Controllers.TrainsController",
+    "Method": "GetTrains",
+    "RelativePath": "api/Trains",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RailwayAPI.Controllers.TrainsController",
+    "Method": "GetTrain",
+    "RelativePath": "api/Trains/{TrainId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrainId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RailwayAPI.Controllers.TrainsController",
+    "Method": "UpdateTrain",
+    "RelativePath": "api/Trains/{TrainId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "trainDto",
+        "Type": "RailwayAPI.Models.TrainDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "TrainId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RailwayAPI.Controllers.TrainsController",
+    "Method": "DeleteTrain",
+    "RelativePath": "api/Trains/{TrainId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrainId",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

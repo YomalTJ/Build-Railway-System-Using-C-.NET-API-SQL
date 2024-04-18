@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4th sem assigments\\Assigments\\TrainManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\updatetrains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\updatetrains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\updatetrains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\updatetrains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|d:\\4th sem assigments\\assigments\\trainmanage\\trainmanage\\models\\traindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\models\\traindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|D:\\4th sem assigments\\Assigments\\TrainManage\\trainmanage\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EE9482C6-9C96-443D-8360-319A90245543}|TrainManage\\TrainManage.csproj|solutionrelative:trainmanage\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainDto.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Models\\TrainDto.cs",
+              "RelativeDocumentMoniker": "TrainManage\\Models\\TrainDto.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Models\\TrainDto.cs",
+              "RelativeToolTip": "TrainManage\\Models\\TrainDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:38:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Form1.cs",
+              "RelativeDocumentMoniker": "TrainManage\\Form1.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Form1.cs",
+              "RelativeToolTip": "TrainManage\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T05:28:57.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateTrains.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\UpdateTrains.cs",
+              "RelativeDocumentMoniker": "TrainManage\\UpdateTrains.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\UpdateTrains.cs",
+              "RelativeToolTip": "TrainManage\\UpdateTrains.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T16:24:15.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTrains.cs [Design]",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\UpdateTrains.cs",
+              "RelativeDocumentMoniker": "TrainManage\\UpdateTrains.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\UpdateTrains.cs [Design]",
+              "RelativeToolTip": "TrainManage\\UpdateTrains.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:15:02.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Form1.cs",
+              "RelativeDocumentMoniker": "TrainManage\\Form1.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Form1.cs [Design]",
+              "RelativeToolTip": "TrainManage\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:14:53.946Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "TrainManage\\AdminLogin.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\AdminLogin.cs",
+              "RelativeToolTip": "TrainManage\\AdminLogin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAcwCYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:44:22.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "TrainManage\\AdminLogin.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "TrainManage\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T03:58:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Program.cs",
+              "RelativeDocumentMoniker": "TrainManage\\Program.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\TrainManage\\TrainManage\\Program.cs",
+              "RelativeToolTip": "TrainManage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:19:04.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

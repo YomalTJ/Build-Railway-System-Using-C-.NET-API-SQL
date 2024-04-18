@@ -1,0 +1,15 @@
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\bin\Debug\TrainManage.exe.config
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\bin\Debug\TrainManage.exe
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\bin\Debug\TrainManage.pdb
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\bin\Debug\Newtonsoft.Json.dll
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\bin\Debug\Newtonsoft.Json.xml
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.csproj.AssemblyReference.cache
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.Form1.resources
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.Properties.Resources.resources
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.csproj.GenerateResource.cache
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.csproj.CoreCompileInputs.cache
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainMan.374B3C72.Up2Date
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.exe
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.pdb
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.UpdateTrains.resources
+D:\4th sem assigments\Assigments\TrainManage\TrainManage\obj\Debug\TrainManage.AdminLogin.resources

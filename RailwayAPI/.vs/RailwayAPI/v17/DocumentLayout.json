@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|d:\\4th sem assigments\\assigments\\railwayapi\\railwayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|solutionrelative:railwayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|d:\\4th sem assigments\\assigments\\railwayapi\\railwayapi\\controllers\\trainscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|solutionrelative:railwayapi\\controllers\\trainscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|d:\\4th sem assigments\\assigments\\railwayapi\\railwayapi\\railwayapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|solutionrelative:railwayapi\\railwayapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|d:\\4th sem assigments\\assigments\\railwayapi\\railwayapi\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|solutionrelative:railwayapi\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|d:\\4th sem assigments\\assigments\\railwayapi\\railwayapi\\models\\traindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9A75C-E4DC-4137-8EDB-7FA684188F32}|RailwayAPI\\RailwayAPI.csproj|solutionrelative:railwayapi\\models\\traindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainDto.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\Models\\TrainDto.cs",
+              "RelativeDocumentMoniker": "RailwayAPI\\Models\\TrainDto.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\Models\\TrainDto.cs",
+              "RelativeToolTip": "RailwayAPI\\Models\\TrainDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAywA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:43:47.748Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Train.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "RailwayAPI\\Models\\Train.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\Models\\Train.cs",
+              "RelativeToolTip": "RailwayAPI\\Models\\Train.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:49:13.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RailwayAPI.csproj",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\RailwayAPI.csproj",
+              "RelativeDocumentMoniker": "RailwayAPI\\RailwayAPI.csproj",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\RailwayAPI.csproj",
+              "RelativeToolTip": "RailwayAPI\\RailwayAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T17:42:33.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainsController.cs",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\Controllers\\TrainsController.cs",
+              "RelativeDocumentMoniker": "RailwayAPI\\Controllers\\TrainsController.cs",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\Controllers\\TrainsController.cs",
+              "RelativeToolTip": "RailwayAPI\\Controllers\\TrainsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAALQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:39:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RailwayAPI\\appsettings.json",
+              "ToolTip": "D:\\4th sem assigments\\Assigments\\RailwayAPI\\RailwayAPI\\appsettings.json",
+              "RelativeToolTip": "RailwayAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T17:37:05.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
